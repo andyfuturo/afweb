@@ -2,6 +2,8 @@
 
 This is the webpage of andy futuro. 
 
+![No Dogs in Philly Cover](NDIPLowRes.jpg)
+
 ## No Dogs in Philly
 
 [Buy on Payhip](https://payhip.com/b/Tf2b)
