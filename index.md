@@ -2,6 +2,8 @@
 
 This is the webpage of andy futuro. 
 
+[Test](test.md)
+
 [Learn about me here](afWebAbout.md)
 
 Built with stuff. 
