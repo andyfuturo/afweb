@@ -6,6 +6,10 @@ This is the webpage of andy futuro.
 
 Built with stuff. 
 
+## Look at this thing I drew
+
+![weirdpicture](IMG_20181228_110719 copy 8.jpg)
+
 You can use the [editor on GitHub](https://github.com/andyfuturo/afweb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
