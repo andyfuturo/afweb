@@ -2,6 +2,8 @@
 
 This is the webpage of andy futuro. 
 
+[Learn about me here](afWebAbout.txt)
+
 Built with stuff. 
 
 You can use the [editor on GitHub](https://github.com/andyfuturo/afweb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
