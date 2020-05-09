@@ -1,4 +1,4 @@
-# Welcom to my Webpage
+# Welcome to my Webpage
 
 This is the webpage of andy futuro. 
 
