@@ -2,7 +2,7 @@
 
 This is the webpage of andy futuro. 
 
-[Learn about me here](afWebAbout.txt)
+[Learn about me here](afWebAbout.md)
 
 Built with stuff. 
 
