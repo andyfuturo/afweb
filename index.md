@@ -2,7 +2,19 @@
 
 This is the webpage of andy futuro. 
 
-<div class="payhip-embed-page" data-key="Tf2b">...</div><script type="text/javascript" src="https://payhip.com/embed-page.js?v=24u68984"></script>
+## No Dogs in Philly
+
+[Buy on Payhip](https://payhip.com/b/Tf2b)
+
+This is my preferred option. You'll recieve an ePub file and I'll receive 95% of the payment!
+
+[Buy on Amazon](www.amazon.com)
+
+Convenient, but I'll only get 70% and Amazon's monopoly power shall grow.
+
+[Buy on Google Books](www.google.com)
+
+Convenient, but I'll only get 70% of your payment and Google's monopoly power will grow.
 
 [Test](test.md)
 
